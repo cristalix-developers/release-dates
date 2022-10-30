@@ -5,3 +5,22 @@ list:
   - date: 08.11.2022
     status: вайп
     name: CastleFight
+  - date: 10.11.2022
+    status: релиз
+    name: 2048
+  - date: 12.11.2022
+    status: вайп
+    name: Скайблок
+  - date: 14.11.2022
+    status: вайп
+    name: Скотобойня
+  - date: 18.11.2022
+    status: релиз
+    name: Тайкон Барона
+  - date: 25.11.2022
+    status: вайп
+    name: Музей
+  - date: 30.11.2022
+    status: релиз
+    name: Mob Тайкон
+    

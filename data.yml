@@ -1,6 +1,5 @@
-- data: / 
-  mob-tycoon:
-    date: '04.11.2022'
-    status: 'релиз'
-    name: 'Mob Тайкон'
+- mob-tycoon: 
+  date: '04.11.2022'
+  status: 'релиз'
+  name: 'Mob Тайкон'
     
